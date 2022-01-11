@@ -50,6 +50,6 @@
  
 # You can Found it online through the link below:
 
-[Link text Here](https://onlice-clock-js.netlify.app/)
+[Online Clock](https://onlice-clock-js.netlify.app/)
 
  
