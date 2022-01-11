@@ -30,12 +30,26 @@
 ![](./screens/img1.png)
 
 ### second added the styles to the design.
+
 1. circle was made.
 2. numbers are put in their specifc location using Transform: rotate() property
 3. clock hands are filled with color and specific length.
+<hr>
+<br>
 
 ![](./screens/img2.png)
 
-### Finally, locating the design in the center of the page (horizontally and vertically) and adding some labels
+### Finally, locating the design in the center of the page (horizontally and vertically) and adding Js code to animate the clock according to the local time.
+<hr>
+<br>
 
 ![](./screens/img3.png)
+
+<hr>
+<hr>
+ 
+# You can Found it online through the link below:
+
+[Link text Here](https://onlice-clock-js.netlify.app/)
+
+ 
