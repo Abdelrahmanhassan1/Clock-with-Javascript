@@ -43,7 +43,7 @@
 <hr>
 <br>
 
-![](./screens/img3.png)
+<img src = "./screens/clock Project.gif"> 
 
 <hr>
 <hr>
